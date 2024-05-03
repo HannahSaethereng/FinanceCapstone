@@ -1,1 +1,5 @@
 # FinanceCapstone
+
+In my Finance Capstone Project I invented a company, Contactz LLC, that was a an early-stage tech startup developing a mobile app aimed at revolutionizing how people network and connect with one another. The app provides a simple and intuitive interface that allows users to search for and connect with other users based on their professional or personal interests. Then a made a business plan for the company with cash flow projection and a valuation.
+
+My Finance Capstone Project helped me develop critical thinking skills by requiring me to analyze market trends, assess potential risks and opportunities, and make informed decisions about the financial aspects of my fictional company, Contactz LLC. My creativity was exercised in inventing a unique concept for a mobile app and devising innovative strategies for its implementation and monetization. Additionally, through creating a comprehensive business plan with cash flow projections and valuation, I honed my communication skills by effectively conveying complex financial information in a clear and coherent manner, essential for presenting my ideas persuasively to stakeholders.
